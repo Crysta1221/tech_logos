@@ -34,3 +34,8 @@ This may not always be possible due to personal schedules. It may take several d
 - Svelte
   
 (Updated as new requests come in!)
+
+# Design Environment
+- Krita
+- Font [Yuruka Std]
+- [Iconify](https://iconify.design)
