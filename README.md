@@ -1,6 +1,6 @@
 # tech_logos
 I'll share the logos I've created so far here.
-This repository will only be uploaded with the final finished product of the logo.
+This repository will only upload the final completed logo.
 > [!WARNING]
 > Please note that the logos included here are not official at least.
 
