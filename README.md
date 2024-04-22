@@ -5,8 +5,14 @@ This repository will only upload the final completed logo.
 > Please note that the logos included here are not official at least.
 
 # LICENSE
-### If you want to use this logo, please be sure to read this section.
+## If you want to use this logo, please be sure to read this section.
+> [!NOTE]
+> ### summary:
+> - You can freely use the logo for non-commercial purposes. (However, you cannot claim to be the creator of this logo)
+> For example, you can also make stickers with this logo with your friends. (This sticker cannot be sold for a fee)
+> - If you have created something using this logo, please let me know! It will motivate me to create a logo. )
 
+### Full Text:
 [EN]
 1. The creator of these logos is Cr1sta. This does not mean that copyright is completely waived.
 2. Anyone is free to use these logos as they wish for non-commercial use. However, commercial purposes (such as selling goods using these logos) are prohibited. (If you find it, please contact [@Cr1sta_dev](https://x.com/Cr1sta_dev) immediately)
