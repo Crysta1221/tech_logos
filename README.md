@@ -33,6 +33,7 @@ This may not always be possible due to personal schedules. It may take several d
 ## In preparation
 - Arch Linux
 - Ruby on Rails
+- Tauri
 
 ## Finished
 - Nuxt.js
