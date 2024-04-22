@@ -19,7 +19,7 @@ This repository will only be uploaded with the final finished product of the log
 3. ステッカーやシールなどを個人使用の範囲で許可なく使用しても問題ありません！
 4. ロゴを使用する場合はクレジットを記載してください。 （これは任意であり、必須ではありませんが、モチベーションが上がります。）
 
-# I want this logo!
+# I want a different logo!
 Please reply to some kind of logo posting tweet (oops, it was a post). I will make it as soon as it is confirmed.
 This may not always be possible due to personal schedules. It may take several days to complete.
 
