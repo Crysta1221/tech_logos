@@ -32,13 +32,13 @@ This may not always be possible due to personal schedules. It may take several d
 # Roadmaps
 ## In preparation
 - Arch Linux
-- Ruby on Rails
 - Tauri
 
 ## Finished
 - Nuxt.js
 - React
 - Svelte
+- Ruby on Rails
   
 (Updated as new requests come in!)
 
