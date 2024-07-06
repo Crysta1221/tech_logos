@@ -6,24 +6,15 @@ This repository will only upload the final completed logo.
 
 # LICENSE
 ## If you want to use this logo, please be sure to read this section.
-> [!NOTE]
-> ### summary:
-> - You can freely use the logo for non-commercial purposes. (However, you cannot claim to be the creator of this logo)
-> For example, you can also make stickers with this logo with your friends. (This sticker cannot be sold for a fee)
-> - If you have created something using this logo, please let me know! It will motivate me to create a logo. )
+> [!IMPORTANT]
+> [JA]  
+> **ライセンスは2024/05/02付けでMITライセンスに変更されました。これ以降、リポジトリ内の画像はMITライセンスとして運用されます。**  
+> **ただし、このライセンスにより発生した損害等はCrysta並びにCrystaWorldは責任を負わないものとします。**
 
-### Full Text:
-[EN]
-1. The creator of these logos is Cr1sta. This does not mean that copyright is completely waived.
-2. Anyone is free to use these logos as they wish for non-commercial use. However, commercial purposes (such as selling goods using these logos) are prohibited. (If you find it, please contact [@Cr1sta_dev](https://x.com/Cr1sta_dev) immediately)
-3. There is no problem if you use stickers, seals, etc. for personal use without obtaining permission!
-4. Please give credit when using the logo! (It's optional and not required, but it motivates me!)
-
-[JA]
-1. これらのロゴの作成者は Cr1sta です。 著作権を完全に放棄したわけではありません。
-2. これらのロゴは、非営利の範囲で、どなたでも自由に使用することができます。 ただし、営利目的（ロゴを使用した商品の販売等）は禁止します。 (見つけた場合はすぐに[@Cr1sta_dev](https://x.com/Cr1sta_dev)にご連絡ください)
-3. ステッカーやシールなどを個人使用の範囲で許可なく使用しても問題ありません！
-4. ロゴを使用する場合はクレジットを記載してください。 （これは任意であり、必須ではありませんが、モチベーションが上がります。）
+> [!IMPORTANT]
+> [EN]  
+> **The license was changed to the MIT license on May 2, 2024. From now on, images in the repository will be operated under the MIT license.**  
+> **However, Crysta and CrystaWorld are not responsible for any damages caused by this license.**
 
 # I want a different logo!
 Please reply to some kind of logo posting tweet (oops, it was a post). I will make it as soon as it is confirmed.
